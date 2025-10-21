@@ -15,12 +15,12 @@ A seguir descrevo o passo a passo da resolução desse projeto.
 
 ## Índice 
 
-- [1. Contexto]()
-- [2. Ferramentas utilizadas]()
-- [3. Etapas da análise]()
-- [4. Produtos do projeto]()
-- [5. Principais insights]()
-- [6. Conclusão]()
+- [1. Contexto](https://github.com/giulia-tuffanelli/transacoes_financeiras?tab=readme-ov-file#1-contexto)
+- [2. Ferramentas utilizadas](https://github.com/giulia-tuffanelli/transacoes_financeiras?tab=readme-ov-file#2-ferramentas-utilizadas)
+- [3. Etapas da análise](https://github.com/giulia-tuffanelli/transacoes_financeiras?tab=readme-ov-file#3-etapas-da-an%C3%A1lise)
+- [4. Produtos do projeto](https://github.com/giulia-tuffanelli/transacoes_financeiras?tab=readme-ov-file#4-produtos-do-projeto)
+- [5. Principais insights](https://github.com/giulia-tuffanelli/transacoes_financeiras?tab=readme-ov-file#5-principais-insights)
+- [6. Conclusão](https://github.com/giulia-tuffanelli/transacoes_financeiras?tab=readme-ov-file#6-conclus%C3%A3o)
 
 
 ## 1. Contexto
