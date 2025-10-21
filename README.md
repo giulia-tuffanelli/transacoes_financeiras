@@ -5,11 +5,9 @@
   Criação de query em SQL para obter saldos mensais das contas de clientes e de dashboard no Looker Studio para análise do comportamento financeiro.
 
 
-[Notebook com desenvolvimento em SQL]()
+[Scripts em SQL](https://github.com/giulia-tuffanelli/transacoes_financeiras/tree/main/scripts_SQL)
 
-[Scripts em SQL]()
-
-[Relatório - Análise de transações Financeiras]()
+[Relatório - Análise de transações Financeiras](https://lookerstudio.google.com/reporting/f0137f3c-9ea2-464a-9c20-b0b11f81be73)
 
 A seguir descrevo o passo a passo da resolução desse projeto.
 
@@ -79,11 +77,10 @@ O projeto foi desenvolvido por etapas usando técnicas de extração, transforma
 
 ## 4. Produtos do projeto
 
-[Notebook com desenvolvimento em SQL]()
 
-[Scripts em SQL]()
+[Scripts em SQL](https://github.com/giulia-tuffanelli/transacoes_financeiras/tree/main/scripts_SQL)
 
-[Relatório - Análise de transações Financeiras]()
+[Relatório - Análise de transações Financeiras](https://lookerstudio.google.com/reporting/f0137f3c-9ea2-464a-9c20-b0b11f81be73)
 
 ## 5. Principais insights
 
